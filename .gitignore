@@ -1,0 +1,8 @@
+# Ignore vc unwanted files
+*.vcxproj.filters
+*.vcxproj.user
+#Ignore Debug and Release Folder
+Debug
+Release
+.vs
+*.opendb
