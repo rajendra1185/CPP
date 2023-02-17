@@ -142,9 +142,11 @@
     <ClCompile Include="Constructor.cpp" />
     <ClCompile Include="copyconstructor.cpp" />
     <ClCompile Include="CppConcept.cpp" />
+    <ClCompile Include="Pointers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
+    <ClInclude Include="Pointers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
